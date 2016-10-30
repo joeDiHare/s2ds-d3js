@@ -1,0 +1,25 @@
+name_origin,name_destination,team_info
+Marta,Evgenii,News
+Marta,Silvestro,Fitbug
+Alison,Francesco,News UK
+Alison,Evgenii,News UK
+Francesco,Evgenii,News UK
+James,Luis,NUK
+Patrick,Alfonso,team_members
+Alfonso,Silvestro,Fitbug
+Alfonso,Stefano,Fitbug
+Alfonso,Patrick,Fitbug
+Silvestro,Patrick,Fitbug
+Stefano,Alfonso,Fitbug
+Stefano,Silvestro,Fitbug
+Stefano,Patrick,Fitbug
+Patrick,Alfonso,Fitbug
+Patrick,Silvestro,Fitbug
+Aileen,Luis,team_members
+Ifeanyi,Luis,Parkinson
+Ifeanyi,Aileen,Parkinson
+Aileen,Ahmed,Sopra Steria
+Laura,Evgenii,Fitbug
+Julien,Ahmed,Fitbug
+Julien,Aileen,Fitbug
+Laura,Aileen,Sopra Steria
