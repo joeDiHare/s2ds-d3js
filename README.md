@@ -9,13 +9,15 @@ Contributions are welcome to:
 - Improve the behaviour:
     - The image display is buggy, and ugly in the way is implemented (I have no idea what I am doing) 
     - Add text next to images
-    - Add banner with Pivigo teams
+    - Add banner with Pivigo team members
     - Add info about companies
+    - ...
+- Improve this page.
 
 What's the quickest way to play with the code:
 
 <li>Fork repo and clone it to your pc</li>
-<li>Download MAMP</li> and point it to repo (it's a server on your pc, it allows you to run the website locally and see it in your browser)
+<li>Download MAMP and point it to repo</li> (it's a server on your pc, it allows you to run the website locally and see it in your browser)
 <li>correct data in json</li>
 <li>and/or play with the html</li>
 
