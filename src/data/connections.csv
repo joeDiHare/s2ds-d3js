@@ -2,7 +2,7 @@ name_origin,name_destination,team_info
 Marta,Evgenii,News UK
 Marta,Alison,News UK
 Marta,James,News UK
-Alison,Francesco,News UK
+Alison,Marta,News UK
 Alison,Evgenii,News UK
 Alison,James,News UK
 Evgenii,Marta,News UK
@@ -30,10 +30,20 @@ Julien,Laura,Sopra Steria
 Julien,Ahmed,Sopra Steria
 Julien,Aileen,Sopra Steria
 Laura,Aileen,Sopra Steria
+Laura,Julien,Sopra Steria
+Laura,Ahmed,Sopra Steria
 Ahmed,Julien,Sopra Steria
+Ahmed,Laura,Sopra Steria
+Ahmed,Aileen,Sopra Steria
 Ifeanyi,Luis,Parkinson
 Ifeanyi,Francesco,Parkinson
 Ifeanyi,Helene,Parkinson
+Luis,Ifeanyi,Parkinson
+Luis,Francesco,Parkinson
+Luis,Helene,Parkinson
 Helene,Ifeanyi,Parkinson
 Helene,Francesco,Parkinson
 Helene,Luis,Parkinson
+Francesco,Ifeanyi,Parkinson
+Francesco,Helene,Parkinson
+Francesco,Luis,Parkinson
