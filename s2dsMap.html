@@ -100,7 +100,8 @@ function ready(error, world, team_members, connections) {
   contact.append("title")
       .text(function(d) { return d.name +
         "\nTeam: " + d.team +
-        "\n" + d.arcs.coordinates.length + " connections"; });
+        "\n" + d.arcs.coordinates.length + " connections" +
+        "\n" + d.email; });
 
   contact.append("path")
       .attr("class", "contact-arc")
@@ -111,7 +112,7 @@ function ready(error, world, team_members, connections) {
       .attr("class", "contact-cell")
       .attr("d", function(d) { return d ? "M" + d.join("L") + "Z" : null; });
 
-  var widthImg = 50; var heightImg= 50; // image size
+  var widthImg = 50; var heightImg= 50; // icon image size
   contact.append("png:image")
        .attr('x', function(d) { return projection([d.longitude,d.latitude])[0]-widthImg/2; })
        .attr('y', function(d) { return projection([d.longitude,d.latitude])[1]-heightImg/2; })
@@ -136,7 +137,6 @@ function typeContact(d) {
 }
 
 function typeConnection(d) {
-  // d.count = +d.count;
   d.team_info = +d.team_info
   return d;
 }
