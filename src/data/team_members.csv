@@ -1,17 +1,17 @@
 name_contact,name,team,city,country,latitude,longitude
 Stefano,Stefano Cosentino,Fitbug,Naples,ITALY,40.852159,14.273789
 Alfonso,Alfonso Monroy,Fitbug,Starkville,MEXICO,19.449179,-99.142356
-Helene,Helene,Parkinson,MO,SPAIN,46.517045,0.857534
 Patrick,Patrick,Fitbug,Sterling,USA,40.6152625,-103.2646556
 Silvestro,Silvestro,Fitbug,Rome,ITALY,38.74768694,-90.35998972
 Julien,Julien,Sopra Steria,MN,USA,51.512749,-0.136625
-Marta,Marta,Santa Rosa,CA,USA,39.472662,-0.375596
-Luis,Luis,Charlotte Amalie,VI,USA,18.33730556,-64.97336111
-Ifeanyi,Ifeanyi,Christiansted,VI,USA,8.903259,7.603272
 Ahmed,Ahmed,Sopra Steria,FL,USA,27.18169444,-80.22108333
-Evgenii,Evgenii,Stroud,OK,USA,62.176744,106.45862861
 Laura,Laura,Sopra Steria Bay,WI,USA,44.84366222,-87.42154111
 Aileen,Aileen,Sopra Steria,ID,USA,3.585056,101.823015
-James,James,St Louis,MO,USA,53.044685,-8.146564
-Alison,Alison,Southport,NC,USA,33.92925694,-78.07499167
-Francesco,Francesco,Superior,WI,USA,46.6897175,-92.094655
+James,James,News UK,Dublin,UK,53.044685,-8.146564
+Alison,Alison,News UK,Geneva,SWITZERLAND,33.92925694,-78.07499167
+Evgenii,Evgenii,News UK,OK,USA,62.176744,106.45862861
+Marta,Marta,News UK,Barcellona,SPAIN,41.383564,2.179836
+Luis,Luis,Parkinson's UK,VI,USA,18.33730556,-64.97336111
+Ifeanyi,Ifeanyi,Parkinson's UK,VI,USA,8.903259,7.603272
+Francesco,Francesco,Parkinson's UK,Catania,ITALY,46.6897175,-92.094655
+Helene,Helene,Parkinson's UK,Lyon,SPAIN,45.761168,4.830141
