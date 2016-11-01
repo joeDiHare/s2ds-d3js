@@ -7,7 +7,7 @@ Contributions are welcome to:
 - Fix the data: connections and names need to be completed (in src/data/ .json)
 - Improve the style (colors, shapes, etc)
 - Improve the behaviour:
-    - The image display is buggy, and ugly in the way is implemented (I have no idea what I am doing) 
+    - The image display is rough. Would be good to have it circle-clipped and color filtered 
     - Add text next to images
     - Add banner with Pivigo team members
     - Add info about companies
