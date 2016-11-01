@@ -21,6 +21,10 @@ Contributions are welcome to:
 <li>correct data in json</li>
 <li>and/or play with the html</li>
 
+### I only want to fix the data.
+<li>Still fork the repo, pay attention to the format in the csv files, commit and push changes.</li>
+
+
 ### Useful links:
 http://www.d3noob.org/2013/03/a-simple-d3js-map-explained.html
 http://bl.ocks.org/mpmckenna8/b87df1c44243aa1575cb
